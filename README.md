@@ -22,6 +22,12 @@ Packpartout is a packing list suggestion app created by Connor Larsen, Leah Sher
 * Bright, warm colors -- some brown, steampunk that doesn't take itself too seriously
 * Flat design
 
+## Copy ideas
+
+* 20,000 destinations under the sun
+* "I see that it is by no means useless to travel, if a man wants to see something new"
+* Fortune favors the brave
+
 ### Freepik vectors
 
 **Steampunk elements**
@@ -69,15 +75,6 @@ Packpartout is a packing list suggestion app created by Connor Larsen, Leah Sher
 * [Holiday icons](http://www.freepik.com/free-vector/holiday-icons-collection-flat-style_714617.htm) - see suitcase, perhaps for form use
 * [World travel symbols](http://www.freepik.com/free-vector/air-travel-landmark-tourism-vector_718305.htm)
 
-
-### Book covers/Posters
-
-* [https://s-media-cache-ak0.pinimg.com/736x/53/d2/be/53d2becbb8adc8f27e4580b7868fba2a.jpg](https://s-media-cache-ak0.pinimg.com/736x/53/d2/be/53d2becbb8adc8f27e4580b7868fba2a.jpg)
-* [https://upload.wikimedia.org/wikipedia/commons/8/86/Verne_Tour_du_Monde.jpg](https://upload.wikimedia.org/wikipedia/commons/8/86/Verne_Tour_du_Monde.jpg)
-* [https://s-media-cache-ak0.pinimg.com/736x/b4/a3/f5/b4a3f5473e7922faff699a0701db3e27.jpg](https://s-media-cache-ak0.pinimg.com/736x/b4/a3/f5/b4a3f5473e7922faff699a0701db3e27.jpg)
-* [https://s-media-cache-ak0.pinimg.com/originals/2d/b3/e8/2db3e8349d5ba7cf0d284bb4b8f0b142.jpg](https://s-media-cache-ak0.pinimg.com/originals/2d/b3/e8/2db3e8349d5ba7cf0d284bb4b8f0b142.jpg)
-* [https://burrellosubmarinemovies.files.wordpress.com/2013/09/atw80d1.jpg](https://burrellosubmarinemovies.files.wordpress.com/2013/09/atw80d1.jpg)
-
 ### Passepartout/Mascot
 
 * [https://thumbs.dreamstime.com/z/vintage-great-britain-victorian-gentleman-businessman-cartoon-character-icon-stylish-english-city-background-retro-cartoon-design-54502095.jpg](https://thumbs.dreamstime.com/z/vintage-great-britain-victorian-gentleman-businessman-cartoon-character-icon-stylish-english-city-background-retro-cartoon-design-54502095.jpg)
@@ -93,11 +90,17 @@ Packpartout is a packing list suggestion app created by Connor Larsen, Leah Sher
 * [Sinara](http://designazure.com/wp-content/uploads/2015/08/sinara-font.png)
 * [Abril Fat Face](https://www.fontsquirrel.com/fonts/abril-fatface)
 
-## Copy ideas
 
-* 20,000 destinations under the sun
-* "I see that it is by no means useless to travel, if a man wants to see something new"
-* Fortune favors the brave
+### Book covers/Posters
+
+![book cover poster](https://s-media-cache-ak0.pinimg.com/736x/53/d2/be/53d2becbb8adc8f27e4580b7868fba2a.jpg)
+
+* [https://s-media-cache-ak0.pinimg.com/736x/53/d2/be/53d2becbb8adc8f27e4580b7868fba2a.jpg](https://s-media-cache-ak0.pinimg.com/736x/53/d2/be/53d2becbb8adc8f27e4580b7868fba2a.jpg)
+* [https://upload.wikimedia.org/wikipedia/commons/8/86/Verne_Tour_du_Monde.jpg](https://upload.wikimedia.org/wikipedia/commons/8/86/Verne_Tour_du_Monde.jpg)
+* [https://s-media-cache-ak0.pinimg.com/736x/b4/a3/f5/b4a3f5473e7922faff699a0701db3e27.jpg](https://s-media-cache-ak0.pinimg.com/736x/b4/a3/f5/b4a3f5473e7922faff699a0701db3e27.jpg)
+* [https://s-media-cache-ak0.pinimg.com/originals/2d/b3/e8/2db3e8349d5ba7cf0d284bb4b8f0b142.jpg](https://s-media-cache-ak0.pinimg.com/originals/2d/b3/e8/2db3e8349d5ba7cf0d284bb4b8f0b142.jpg)
+* [https://burrellosubmarinemovies.files.wordpress.com/2013/09/atw80d1.jpg](https://burrellosubmarinemovies.files.wordpress.com/2013/09/atw80d1.jpg)
+
 
 ## License
 
