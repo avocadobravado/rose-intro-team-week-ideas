@@ -95,11 +95,13 @@ Packpartout is a packing list suggestion app created by Connor Larsen, Leah Sher
 
 ![book cover poster](https://s-media-cache-ak0.pinimg.com/736x/53/d2/be/53d2becbb8adc8f27e4580b7868fba2a.jpg)
 
-* [https://s-media-cache-ak0.pinimg.com/736x/53/d2/be/53d2becbb8adc8f27e4580b7868fba2a.jpg](https://s-media-cache-ak0.pinimg.com/736x/53/d2/be/53d2becbb8adc8f27e4580b7868fba2a.jpg)
-* [https://upload.wikimedia.org/wikipedia/commons/8/86/Verne_Tour_du_Monde.jpg](https://upload.wikimedia.org/wikipedia/commons/8/86/Verne_Tour_du_Monde.jpg)
-* [https://s-media-cache-ak0.pinimg.com/736x/b4/a3/f5/b4a3f5473e7922faff699a0701db3e27.jpg](https://s-media-cache-ak0.pinimg.com/736x/b4/a3/f5/b4a3f5473e7922faff699a0701db3e27.jpg)
-* [https://s-media-cache-ak0.pinimg.com/originals/2d/b3/e8/2db3e8349d5ba7cf0d284bb4b8f0b142.jpg](https://s-media-cache-ak0.pinimg.com/originals/2d/b3/e8/2db3e8349d5ba7cf0d284bb4b8f0b142.jpg)
-* [https://burrellosubmarinemovies.files.wordpress.com/2013/09/atw80d1.jpg](https://burrellosubmarinemovies.files.wordpress.com/2013/09/atw80d1.jpg)
+![book cover poster](https://upload.wikimedia.org/wikipedia/commons/8/86/Verne_Tour_du_Monde.jpg)
+
+![book cover poster](https://s-media-cache-ak0.pinimg.com/736x/b4/a3/f5/b4a3f5473e7922faff699a0701db3e27.jpg)
+
+![book cover poster](https://s-media-cache-ak0.pinimg.com/originals/2d/b3/e8/2db3e8349d5ba7cf0d284bb4b8f0b142.jpg)
+
+![book cover poster](https://burrellosubmarinemovies.files.wordpress.com/2013/09/atw80d1.jpg)
 
 
 ## License
