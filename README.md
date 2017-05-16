@@ -27,6 +27,7 @@ Packpartout is a packing list suggestion app created by Connor Larsen, Leah Sher
 * 20,000 destinations under the sun
 * "I see that it is by no means useless to travel, if a man wants to see something new"
 * Fortune favors the brave
+* "Whether you're traveling around the world in 80 days or 8..."
 
 ### Freepik vectors
 
