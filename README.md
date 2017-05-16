@@ -41,19 +41,19 @@ Packpartout is a packing list suggestion app created by Connor Larsen, Leah Sher
 
 
 **Other inspirations for landing page background**
-* [Gear background](http://www.freepik.com/free-vector/gear-background-with-circles-of-different-colors_966125.htm#term=steampunk&page=3&position=11)
-* [Color of the sky and clouds](http://www.freepik.com/free-vector/retro-aerostatic-globes_770109.htm#term=vintage sky&page=2&position=2)
-* [Lower area clouds](http://www.freepik.com/free-vector/videogame-landscape-background_956170.htm#term=vintage sky&page=2&position=18)
-* [Gradient sky and banner](http://www.freepik.com/free-vector/retro-plane-with-orange-banner_753312.htm#term=vintage sky&page=2&position=39)
-* [Great colors here](http://www.freepik.com/free-vector/its-travel-time-background_883576.htm#term=vintage sky&page=3&position=4)
-* [Love the yellow/dark blue combo here](http://www.freepik.com/free-vector/ship-in-a-vintage-style-illustration_830232.htm#term=vintage sky&page=3&position=24)
-* [Nice subtle gradient background color](http://www.freepik.com/free-vector/vintage-airplane-with-message_714157.htm#term=vintage sky&page=4&position=23)
-* [Another nice gradient background, optimistic and warm](http://www.freepik.com/free-vector/vintage-background-with-an-hot-air-balloon-and-two-kids_963775.htm#term=vintage sky&page=4&position=20)
+* [Gear background](http://www.freepik.com/free-vector/gear-background-with-circles-of-different-colors_966125.htm)
+* [Color of the sky and clouds](http://www.freepik.com/free-vector/retro-aerostatic-globes_770109.htm)
+* [Lower area clouds](http://www.freepik.com/free-vector/videogame-landscape-background_956170.htm)
+* [Gradient sky and banner](http://www.freepik.com/free-vector/retro-plane-with-orange-banner_753312.htm)
+* [Great colors here](http://www.freepik.com/free-vector/its-travel-time-background_883576.htm)
+* [Love the yellow/dark blue combo here](http://www.freepik.com/free-vector/ship-in-a-vintage-style-illustration_830232.htm)
+* [Nice subtle gradient background color](http://www.freepik.com/free-vector/vintage-airplane-with-message_714157.htm)
+* [Another nice gradient background, optimistic and warm](http://www.freepik.com/free-vector/vintage-background-with-an-hot-air-balloon-and-two-kids_963775.htm)
 
 **Passepartout/English gentleman/mascot**
-* [Mustached man](http://www.freepik.com/free-vector/movember-striped-background-with-a-nice-character_955857.htm#term=gentleman&page=1&position=34)
-* [Mustached man](http://www.freepik.com/free-vector/background-of-gentleman-with-a-mustache-celebrating-movember_955859.htm#term=gentleman&page=1&position=38)
-* [Gentleman avatar](http://www.freepik.com/free-vector/worker-avatar-collection_835095.htm#term=gentleman&page=2&position=19)
+* [Mustached man](http://www.freepik.com/free-vector/movember-striped-background-with-a-nice-character_955857.htm)
+* [Mustached man](http://www.freepik.com/free-vector/background-of-gentleman-with-a-mustache-celebrating-movember_955859.htm)
+* [Gentleman avatar](http://www.freepik.com/free-vector/worker-avatar-collection_835095.htm)
 
 
 **Typefaces**
@@ -66,8 +66,8 @@ Packpartout is a packing list suggestion app created by Connor Larsen, Leah Sher
 * [Pisa, Eiffel, Rome](http://www.freepik.com/free-vector/air-travel-background-with-different-monuments_718303.htm#term=egypt&page=3&position=30)
 * [World landmarks](http://www.freepik.com/free-vector/travel-around-the-world-icons_714638.htm#term=egypt&page=4&position=13) - perhaps too simplistic
 * [World landmarks](http://www.freepik.com/free-vector/world-city-elements_828622.htm#term=egypt&page=5&position=1) - may be too America and England centric
-* [Holiday icons](http://www.freepik.com/free-vector/holiday-icons-collection-flat-style_714617.htm#term=world landmarks&page=1&position=6) - see suitcase, perhaps for form use
-* [World travel symbols](http://www.freepik.com/free-vector/air-travel-landmark-tourism-vector_718305.htm#term=world landmarks&page=1&position=19)
+* [Holiday icons](http://www.freepik.com/free-vector/holiday-icons-collection-flat-style_714617.htm) - see suitcase, perhaps for form use
+* [World travel symbols](http://www.freepik.com/free-vector/air-travel-landmark-tourism-vector_718305.htm)
 
 
 ### Book covers/Posters
